@@ -1,0 +1,100 @@
+body {
+  font-family: "Sans-Serif";
+  background-color: #181c19;
+}
+
+.menu {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 600px;
+  margin-left: 0px;
+  background-color: #6b6a67;
+}
+
+.list {
+  width: 150px;
+  height: 600px;
+  margin-left: 60px;
+  margin-top: -205px;
+  background-color: #232423;
+}
+
+.music_info {
+  width: 590px;
+  height: 70px;
+  margin-top: -70px;
+  margin-left: 210px;
+  background-color: #191a19;
+}
+
+.music_info h1 {
+  color: white;
+  margin-left: 100px;
+  margin-top: -50px;
+}
+
+.music_info p {
+  color: #525252;
+  margin-left: 120px;
+  margin-top: -25px;
+}
+
+.music_info img {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.music {
+  position: relative;
+  background-color: transparent;
+  margin-top: -70px;
+  margin-left: 420px;
+}
+
+.prev {
+  position: relative;
+  margin-top: -50px;
+  margin-left: -500px;
+}
+
+.play-stop {
+  position: relative;
+  top: 10px;
+  margin-top: -20px;
+}
+
+.add img {
+  margin-left: 5px;
+  margin-bottom: -500px;
+}
+
+.config img {
+  margin-left: 5px;
+  margin-bottom: -555px;
+}
+
+.similar_bar h1 {
+  color: white;
+}
+
+.more_ears_bar h1 {
+  color: white;
+}
+
+.in_your_style_bar h1 {
+  color: white;
+}
+
+.similar_text {
+  margin-top: -550px;
+  margin-left: 250px;
+}
+
+.more_ears_text {
+  margin-left: 250px;
+}
+
+.in_your_style_text {
+  margin-left: 250px;
+}
